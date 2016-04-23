@@ -7,7 +7,7 @@ sort: 101
 
 ### Vad jag gör
 
-Jag arbetar som "full-stack-developer" för internet. Allt från automatiserade molnserverinstallationer upp till css-anpassning på minsta pixelnivå. Jag gör allt. Dessutom seplar jag cello.
+Jag arbetar som "full-stack-developer" för internet. Allt från automatiserade molnserverinstallationer upp till css-anpassning på minsta pixelnivå. Jag gör allt. Dessutom spelar jag cello.
 
 
 Jag jobbar som konsult, anställd av mitt eget företag. 
@@ -16,7 +16,7 @@ Jag jobbar som konsult, anställd av mitt eget företag.
 ### Några programmeringssrpåk som jag använder 
 
 * Ruby
-* Javascript (server+klient)
+* JavaScript (server+klient)
 * C#
 * PHP
 * Java
