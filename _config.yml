@@ -1,0 +1,18 @@
+# Site settings
+title: Teyrow
+email: andreas.josephson@teyrow.se
+description: > # this means to ignore newlines until "baseurl:"
+  This site is a good webpage. Actually, it is one of the greates. I know, because many of my 
+  friends find this page great. They told me.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://www.teyrow.com" # the base hostname & protocol for your site
+twitter_username:
+github_username:  teyrow
+
+# Build settings
+markdown: kramdown
+excerpt_separator: "<!--more-->"
+kramdown:
+  smart_quotes:   rsquo,rsquo,rdquo,rdquo
+
+

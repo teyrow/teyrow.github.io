@@ -1,0 +1,16 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"teyrow.sublime-workspace"
+			],
+			"folder_exclude_patterns":
+			[
+				"_site"
+			],
+			"path": "."
+		}
+	]
+}

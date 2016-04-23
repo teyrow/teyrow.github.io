@@ -1,0 +1,12 @@
+<footer>
+  <hr>
+  <address>
+    <a href="mailto:{{ site.email }}">mailto:{{ site.email }}</a>    
+    {% if site.github_username %}
+    <br><a href="http://github.com/{{ site.github_username }}">{{ site.github_username }} on GitHub</a>    
+    {% endif %}
+    {% if site.twitter_username %}
+    <br><a href="http://twitter.com/{{ site.twitter_username }}">{{ site.twitter_username }} on Twitter</a>
+    {% endif %}  
+  </address>
+</footer>

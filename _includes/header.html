@@ -1,0 +1,11 @@
+<header>
+  <nav>      
+      <a class="site-title" href="{{ site.baseurl }}/">Hem</a>
+      &nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;
+      {% assign pages = site.pages | sort:"sort"  %}
+      {% for my_page in pages %}{% if my_page.title %}
+      <a  href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+      {% endif %}{% endfor %}
+  </nav>
+</header>

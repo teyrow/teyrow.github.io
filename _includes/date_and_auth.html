@@ -1,0 +1,19 @@
+<time datetime="{{ include.the_post.date | date_to_xmlschema }}" itemprop="datePublished">
+  {% assign m = include.the_post.date | date: "%-m" %}
+  {{ include.the_post.date | date: "%-d" }}
+  {% case m %}
+    {% when '1' %}januari
+    {% when '2' %}februari
+    {% when '3' %}mars
+    {% when '4' %}april
+    {% when '5' %}maj
+    {% when '6' %}juni
+    {% when '7' %}juli
+    {% when '8' %}augusti
+    {% when '9' %}september
+    {% when '10' %}oktober
+    {% when '11' %}november
+    {% when '12' %}december
+  {% endcase %}
+  {{ include.the_post.date | date: "%Y" }}
+</time>{% if include.the_post.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ include.the_post.author }}</span></span>{% endif %}
