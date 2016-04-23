@@ -12,11 +12,11 @@ _Om vi är överens om att innehållet är viktigast, varför finns det då så 
 
 <!--more-->
 
-Jag erkänner mig skyldig. Jag har bidragit till att utveckla sidor med enorma mängder css-regler: animationer, media queries, gradienter och till och med jQuery för att flytta runt menyer när övriga css inte räckte till.
+Jag erkänner mig skyldig. Jag har bidragit till att utveckla sidor med enorma mängder css-regler: animationer, "media queries", gradienter och till och med jQuery för att flytta runt menyer när övriga css inte räckte till.
 
 Men nu kanske det räcker för ett tag?
 
-Denna sajt blir ett uppror mot detta. Här använder jag färre än 10 css-regler, och allt fungerar!
+Denna sajt blir ett uppror mot detta. Här använder jag **färre än 10 css-regler**, och allt fungerar!
 
 Jag googlar på "wordpress minimalistic theme" och får en uppsjö av mallar. 
 Skillnaden mellan "minimalistisk" och "minimal" blir intressant. Om det kräver flera megabytes med css och javacsript för att uttrycka minimalism, vill jag påstå att kejsaren *är* naken.
