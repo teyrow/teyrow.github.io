@@ -12,5 +12,15 @@
 			],
 			"path": "."
 		}
-	]
+	],
+
+    "settings":
+    {
+        "Jekyll":
+        {
+            "posts_path": "/Users/aj/code/teyrow/_posts",
+            "drafts_path": "/Users/aj/code/teyrow/_drafts",
+            "uploads_path": "/Users/aj/code/teyrow/uploads",
+        }
+    }
 }
