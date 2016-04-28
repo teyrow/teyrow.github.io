@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Veckans PK dilemma
+title: Veckans PK-dilemma
 categories: []
 tags: []
 author: Andreas
